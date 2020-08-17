@@ -1,0 +1,8 @@
+Source:
+bnsdi.gov.bz
+
+Disclaimer
+Belize National Spatial Data Infrastructure assumes no responsibility for errors or omissions in the contents on the Service.
+In no event shall Belize National Spatial Data Infrastructure be liable for any special, direct, indirect, consequential, or incidental damages or any damages whatsoever, whether in an action of contract, negligence or other torts, arising out of or in connection with the use of the Service or the contents of the Service. Belize National Spatial Data Infrastructure reserves the right to make additions, deletions, or modification to the contents on the Service at any time without prior notice.
+
+© 2018 - 2019 Ministry of Natural Resources, Belize
